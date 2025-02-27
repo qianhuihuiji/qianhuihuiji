@@ -5,5 +5,5 @@
 
 
 - 🔭 I’m currently working on ChangSha
-- 🌱 I’m currently learning Spring && Java
+- 🌱 I’m currently learning Spring && Java && Go!
 
